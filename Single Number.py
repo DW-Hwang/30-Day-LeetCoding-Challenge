@@ -18,3 +18,7 @@ def singleNumber(nums):
 	# input: num-> list
 	# output: int
 	return (sum(set(nums))*2) - sum(nums)
+
+if __name__ == "__main__":
+	print 'Execute input nums=[2,2,1]:: ', singleNumber([2,2,1])
+	print 'Execute input nums=[4,1,2,1,2]:: ', singleNumber([4,1,2,1,2])
