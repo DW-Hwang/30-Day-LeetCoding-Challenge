@@ -7,4 +7,5 @@ In the event of Covid-19, LeetCode is running a 30-Day LeetCoding Challenge for 
 * Day 3 - Maximum Subarray
 * Day 4 - Move Zeros
 * Day 5 - Best Time to Buy and Sell Stock II
+* Day 6 - Group Anagrams
 
