@@ -15,4 +15,6 @@ Could you implement it without using extra memory?
 # Output: 4
 
 def singleNumber(nums):
+	# input: num-> list
+	# output: int
 	return (sum(set(nums))*2) - sum(nums)
