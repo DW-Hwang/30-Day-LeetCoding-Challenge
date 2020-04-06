@@ -1,4 +1,4 @@
-# 30-Days-LeetCoding-Challenge
+# 30 Days LeetCoding Challenge
 In the event of Covid-19, LeetCode is running a 30-Day LeetCoding Challenge for the month of April. There will be a new frequently-asked interview problem to solve every day. 
 
 ## Challenge Questions
