@@ -11,3 +11,5 @@ In the event of Covid-19, LeetCode is running a 30-Day LeetCoding Challenge for 
 * Day 6 - [Group Anagrams](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/Group%20Anagrams.py)
 * Day 7 - [Counting Elements](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/Counting%20Elements.py)
 
+<b> Week 2 <b>
+* Day 8 - [Middle of the Linked List](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/Middle%20Node.py)
