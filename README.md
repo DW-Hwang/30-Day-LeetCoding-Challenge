@@ -14,3 +14,4 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 **Week 2: April 8th - April 14th**
 * Day 8 - [Middle of the Linked List](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/Middle%20Node.py)
 * Day 9 - [Backspace String Compare](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/Backspace%20Compare.py%20)
+* Day 10 - [Min Stack](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/MinStack.py)
