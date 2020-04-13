@@ -17,3 +17,4 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 * Day 10 - [Min Stack](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/MinStack.py)
 * Day 11 - [Diameter of Binary Tree](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/diameterOfBinaryTree.py)
 * Day 12 - [Last Stone Weight](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/lastStoneWeight.py)
+* Day 13 - [Contiguous Array](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/findMaxLength.py)
