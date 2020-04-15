@@ -19,3 +19,6 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 * Day 12 - [Last Stone Weight](https://github.com/DW-Hwang/30-Days-LeetCoding-Challenge/blob/master/lastStoneWeight.py)
 * Day 13 - [Contiguous Array](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/findMaxLength.py)
 * Day 14 - [Perform String Shifts](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/stringShift.py)
+
+**Week 3: April 15th - April 21st**
+* Day 15 - [Product of Array Except Self](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/productExceptSelf.py)
