@@ -22,3 +22,4 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 
 **Week 3: April 15th - April 21st**
 * Day 15 - [Product of Array Except Self](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/productExceptSelf.py)
+* Day 16 - [Valid Parenthesis String](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/checkValidString.py)
