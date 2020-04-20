@@ -26,3 +26,5 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 * Day 17 - [Number of Islands](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/numIslands.py)
 * Day 18 - [Minimum Path Sum](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/minPathSum.py)
 * Day 19 - [Search in Rotated Sorted Array](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/search.py)
+* Day 20 - [Construct Binary Search Tree from Preorder Traversal
+Solution](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/bstFromPreorder.py)
