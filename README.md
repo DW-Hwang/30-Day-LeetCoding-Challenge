@@ -28,3 +28,5 @@ In the event of Covid-19, many of us around the world being encouraged to stay i
 * Day 19 - [Search in Rotated Sorted Array](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/search.py)
 * Day 20 - [Construct Binary Search Tree from Preorder Traversal
 Solution](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/bstFromPreorder.py)
+* Day 21 - [Leftmost Column with at Least a One](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/leftMostColumnWithOne.py)
+* Day 22 - [Subarray Sum Equals K](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/subarraySum.py)
