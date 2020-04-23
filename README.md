@@ -32,3 +32,4 @@ Solution](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/bs
 
 **Week 4: April 22nd - April 28th**
 * Day 22 - [Subarray Sum Equals K](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/subarraySum.py)
+* Day 23 - [Bitwise AND of Numbers Range](https://github.com/DW-Hwang/30-Day-LeetCoding-Challenge/blob/master/rangeBitwiseAnd.py)
